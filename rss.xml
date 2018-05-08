@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+	<channel>
+        <title>NOTICIARIO TECNOLÓGICO</title>
+        <link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news.html</link>
+        <description>Todo sobre las últimas Noticias Tecnológicas</description>
+		<item>
+			<title>Cómo son por dentro los cables submarinos que llevan Internet de un continente a otro.</title>
+			<link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news1.html</link>
+			<description>Los más de 1.000 millones de metros de cable submarino que varias empresas llevan instalando desde 1866 son los responsables de que cada día tengas conexión a Internet, incluso si es conexión inalámbrica. Eso los convierte en unos cables sumamente importantes, por lo que es esencial que puedan proteger la fibra óptica que llevan en su interior.</description>
+		</item>
+		<item>
+			<title>Ingenieros japoneses lograron desarrollar un vehículo que puede convertirse en un robot humanoide.</title>
+			<link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news2.html</link>
+			<description>Transformers fue una serie de dibujos animados creada en 1984 por Hasbro. Su idea era promover sus juguetes que podían convertirse de vehículos a robots. En el 2007 se volvió a popularizar cuando arrancó la saga de películas basada en serie que ha sido muy exitosa recaudando USD 3,7 billones en los cinco filmes dirigidos por Michael Bay.</description>
+		</item>
+	</channel>
+</rss>
