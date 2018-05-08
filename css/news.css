@@ -4,7 +4,6 @@ body,html{
 	cursor: default;
 	font-family: arial;
 	background: url("../img/tapiz.jpg") no-repeat center fixed;
-	/*DISTINTOS NAVEGADORES*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -30,7 +29,7 @@ a, a:visited{
 
 #logo-nav{
 	font-weight: bold;
-	color: #e7e7e7;
+	color: #b7b7be;
 }
 
 button.navbar-toggle{
@@ -86,6 +85,11 @@ button.navbar-toggle{
 
 .well a :hover{
 	text-decoration: none;
+}
+
+.row img{
+	display:block;
+	margin:auto;
 }
 
 /*NOTICIA*/
@@ -164,9 +168,10 @@ button.navbar-toggle{
 @media screen and (min-width: 769px){
 
 .navbar-brand img{
-	width: 15%;
-    margin-top: -10px;
-	}
+	margin-top: -10px;
+	max-width: 17%;
+    height: auto;
+}
 
 #logo-nav{
 	font-size: 2vw;
@@ -213,10 +218,11 @@ button.navbar-toggle{
 @media screen and (max-width: 768px){
 
 .navbar-brand img{
-	width: 13%;
 	position: absolute;
 	left: 15px;
-	top: 4px;
+	top: 6px;
+	width: auto;
+	max-height: 40px;
 }
 
 #logo-nav{
