@@ -15,5 +15,16 @@
 			<link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news2.html</link>
 			<description>Transformers fue una serie de dibujos animados creada en 1984 por Hasbro. Su idea era promover sus juguetes que podían convertirse de vehículos a robots. En el 2007 se volvió a popularizar cuando arrancó la saga de películas basada en serie que ha sido muy exitosa recaudando USD 3,7 billones en los cinco filmes dirigidos por Michael Bay.</description>
 		</item>
+		<item>
+			<title>Este robot fabricado con Legos es como una "Roomba" para recoger Legos y es uno de esos inventos que nuestros pies agradecerán.</title>
+			<link>#</link>
+			<description>Si son fans de Lego, seguro han pasado por ese dolor indescriptible que surge tras haber pisado uno o varios bloques con los pies descalzos, algo que entra en el top tres de las cosas más dolorosas a las que se puede enfrentar un ser humano. Y bien, se trata de 'The Brick Wall', un famoso canal de creaciones basadas en Legos que ahora ha fabricado una Roomba de Legos.</description>
+			<image>
+				<url>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/img/new3.jpg</url>
+				<link>#</link>
+				<title>Lego Roomba</title>
+			</image>
+			<pubDate>03-05-2018, 23:12 h</pubDate>
+		</item>
 	</channel>
 </rss>
