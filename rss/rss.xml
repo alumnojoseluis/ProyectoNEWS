@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+	<channel>
+        <title>NOTICIARIO TECNOLÓGICO</title>
+        <link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news.html</link>
+        <description>Noticias sobre conocimiento tecnológico</description>
+		<item>
+			<title>Cómo son por dentro los cables submarinos que llevan Internet de un continente a otro.</title>
+			<link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news1.html</link>
+			<description>Interior de los cables submarinos encargados de transportar Internet.</description>
+		</item>
+		<item>
+			<title>Ingenieros japoneses lograron desarrollar un vehículo que puede convertirse en un robot humanoide.</title>
+			<link>https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news2.html</link>
+			<description>Ingenieros japoneses desarrollan vehículo convertible en robot humanoide</description>
+		</item>
+	</channel>
+</rss>

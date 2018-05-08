@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang='es'>
+	
+	<head>
+		<title>NOTICIARIO TECNOLÓGICO</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="Noticias sobre conocimiento tecnológico">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta property="og:title" content="Noticiario Tecnológico"/>
+		<meta property="og:description" content="Noticias sobre conocimiento tecnológico"/>
+		<meta property="og:image" content="https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/img/logo.png"/>
+		<meta property="og:site_name" content="Noticiario Tecnológico"/>
+		<meta property="og:url" content="https://rawgit.com/alumnojoseluis/ProyectoNEWS/master/news.html"/>
+		<link rel='stylesheet' type="text/css" href='css/news.css'/>
+		<link rel="alternate" href="rss/rss.xml" type="application/rss+xml" title="RSS de Noticiario Tecnológico"/>
+		<link rel="icon" type="image/png" href="img/logo.ico"/>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="js/news.js"></script>
+	</head>
+	
+	<body id="miPagina">
+		<!--BARRA NAVEGACIÓN FIJA SUPERIOR-->
+		<nav class="navbar navbar-default container navbar-fixed-top" >
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="news.html"><img src="img/logo.png" alt="logotipo"></a>
+				</div>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a id="inicio" href="news.html"><span class="glyphicon glyphicon-home"></span></a></li>
+						<li><a id="cargar-menu"><span class="glyphicon glyphicon-play"></span> Activar scroll</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+		<!--CABECERA-->
+		<div class="jumbotron container">
+			<div class="container">
+				<h1>Noticiario Tecnológico</h1>
+				<h3>Todo sobre las últimas NOTICIAS TECNOLÓGICAS</h3>
+			</div>
+		</div>
+		
+		<!--CUERPO NOTICIAS y PUBLICIDAD-->
+		<div class="container" id="cuerpo">
+			<!--PUBLICIDAD-->
+			<div id="publicidad1">
+				<img class="img-responsive center-block" src="img/publi.png" alt="espacio publicitario">
+			</div>
+			<div id="publicidad2">
+				<img class="img-responsive center-block" src="img/publi.png" alt="espacio publicitario">
+			</div>
+			<!--NOTICIAS-->
+			<div id="noticias">
+				<div class="well">
+					<a href="news1.html">
+						<h2>Cómo son por dentro los cables submarinos que llevan Internet de un continente a otro</h2>
+					</a>
+					<p class="text-info">06-05-2018, 10:26 h</p>
+					<div class="row">
+						<div class="col-sm-3"><img class="img-thumbnail img-responsive" src="img/new1.jpg" alt="noticia"></div>
+						<div class="col-sm-9">
+							<p class="text-justify">Los más de 1.000 millones de metros de cable submarino que varias empresas llevan instalando desde 1866 son los responsables de que cada día tengas conexión a Internet, incluso si es conexión inalámbrica. Eso los convierte en unos cables sumamente importantes, por lo que es esencial que puedan proteger la fibra óptica que llevan en su interior.</p>
+						</div>
+					</div>
+				</div>
+				<div class="well">
+					<a href="news2.html">
+						<h2>Ingenieros japoneses lograron desarrollar un vehículo que puede convertirse en un robot humanoide</h2>
+					</a>
+					<p class="text-info">05-05-2018, 16:27 h</p>
+					<div class="row">
+						<div class="col-sm-3"><img class="img-thumbnail img-responsive" src="img/new2.jpg" alt="noticia"></div>
+						<div class="col-sm-9">
+							<p class="text-justify">Transformers fue una serie de dibujos animados creada en 1984 por Hasbro. Su idea era promover sus juguetes que podían convertirse de vehículos a robots. En el 2007 se volvió a popularizar cuando arrancó la saga de películas basada en serie que ha sido muy exitosa recaudando USD 3,7 billones en los cinco filmes dirigidos por Michael Bay.</p>
+						</div>
+					</div>
+				</div>
+				<div class="well">
+					<h2>Este robot fabricado con Legos es como una "Roomba" para recoger Legos y es uno de esos inventos que nuestros pies agradecerán</h2>
+					<p class="text-info">03-05-2018, 23:12 h</p>
+					<div class="row">
+						<div class="col-sm-3"><img class="img-thumbnail img-responsive" src="img/new3.jpg" alt="noticia"></div>
+						<div class="col-sm-9">
+							<p class="text-justify">Si son fans de Lego, seguro han pasado por ese dolor indescriptible que surge tras haber pisado uno o varios bloques con los pies descalzos, algo que entra en el top tres de las cosas más dolorosas a las que se puede enfrentar un ser humano. Y bien, se trata de 'The Brick Wall', un famoso canal de creaciones basadas en Legos que ahora ha fabricado una Roomba de Legos. </p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--BOTÓN CARGA MÁS NOTICIAS-->
+		<div class="container" id="cargarBoton">
+			<button type="button" class="btn btn-block"><span class="glyphicon glyphicon-plus"></span>NOTICIAS</button>
+		</div>
+		
+		<!--UPLOAD-->
+		<div class="container text-center" id="subir">
+			<a href="#miPagina" title="ARRIBA" class="btn btn-default" role="button"><span class="glyphicon glyphicon-eject"></span></a>
+		</div>
+		
+		<!--PIE-->
+		<footer class="container panel panel-default text-center" id="pie">
+			<div id="redes">
+				<img class="red" id="botFacebook" src="img/face.png" alt="facebook">
+				<a href="rss/rss.xml"><img  src="img/rss.png" alt="redifusion rss" class="red"></a>
+			</div>
+			<p>:: Desarrollador José Luis Sastre ::</p>
+		</footer>
+	</body>
+	
+</html>
