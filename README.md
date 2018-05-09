@@ -1,4 +1,4 @@
 # ProyectoNEWS
-Página web de noticias autorellenable con scroll. HTML, jQUERY y Bootstrap.
+Versión minify.
 
 https://rawgit.com/alumnojoseluis/ProyectoNEWS/version-minify/news.html
