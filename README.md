@@ -73,12 +73,10 @@ planteamiento y especificaciones arriba señaladas.
       - **.png**, utilizado para las imágenes del logotipo del proyecto, de RSS y de Facebook, como también el de la publicidad.
       - **.jpg**, utilizado para las imágenes del tapiz, cabecera y noticias.
       **Comentar que las imágenes de noticias se distinguen entre:**
-      
-      -**menor resolución, IMGMID, anotadas como new#.jpg**
-      
-      -**mayor resolución, IMGBIG, anotadas como new#_#.jpg**
-      
-      Para la optimización se han utilizado [http://optimizilla.com/es/](http://optimizilla.com/es/) y [http://webresizer.com/resizer/?lang=es](http://webresizer.com/resizer/?lang=es)
+         **menor resolución, IMGMID, anotadas como new#.jpg**
+         **mayor resolución, IMGBIG, anotadas como new#_#.jpg**
+         Para la optimización se han utilizado [http://optimizilla.com/es/](http://optimizilla.com/es/)
+         y [http://webresizer.com/resizer/?lang=es](http://webresizer.com/resizer/?lang=es)
 
 - **css/news.css**, contiene el estilo tanto para versión desktop
     como mobile, como también llamada externa para la fuente
