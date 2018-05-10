@@ -35,7 +35,7 @@ planteamiento y especificaciones arriba señaladas.
 ###  · DISEÑO GENERAL
 ![](https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img/D_general.jpg)
 https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img
-![] (https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img/D_general.jpg)
+![DISEÑO GENERAL](https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img/D_general.jpg "DISEÑO GENERAL")
 
 ###  · DISEÑO DETALLES DESTKTOP Y MOBILE
 ![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_detalleDesk.jpg)
