@@ -19,8 +19,8 @@ cargarán noticias al llegar abajo con el scroll.
     - Description ; mín. 300 palabras.
     - Datetime.
 - Dos páginas HTML:
- - 1º Varias noticias.
- - 2º Una sola noticia.
+    - 1º Varias noticias.
+    - 2º Una sola noticia.
 
 ## PROYECTO
 
