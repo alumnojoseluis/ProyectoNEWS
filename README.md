@@ -32,7 +32,16 @@ planteamiento y especificaciones arriba señaladas.
 
 ### -Boceto y diseño final maquetación proyecto.
 
-**************FOTOOOOS
+###  · DISEÑO GENERAL
+![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_general.jpg)
+
+###  · DISEÑO DETALLES DESTKTOP Y MOBILE
+![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_detalleDesk.jpg)
+![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_detalleMobile.jpg)
+
+###  · DISEÑO ESPECIFICACIONES DESTKTOP Y MOBILE
+![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_especificacionDesk.jpg)
+![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_especificacionMobile.jpg)
 
 
 ### -Contenido de los archivos
@@ -106,6 +115,7 @@ entre otros.
 
 -Caja sombreada para dar volumen al enlace noticia.
 
+-**Alert Box** al activar el scroll.
 
 -Adaptabilidad; **Respnsive Design**.
 
