@@ -80,7 +80,7 @@ planteamiento y especificaciones arriba señaladas.
 - **img/...**, contiene archivos de las imágenes con los siguientes formatos:
       - **.ico**, utilizado de favicono.
       - **.png**, utilizado para las imágenes del logotipo del proyecto, de RSS y de Facebook, como también el de la publicidad.
-      - **.jpg**, utilizado para las imágenes del tapiz, cabecera y noticias.
+      - **.jpg**, utilizado para las imágenes del tapiz, cabecera y noticias, como también para las fotografías del boceto/diseño del proyecto.
       **Comentar que las imágenes de noticias se distinguen entre:**
          **Menor resolución(IMGMID), anotadas como new#.jpg y de mayor resolución(IMGBIG), anotadas como new#_#.jpg**
          Para la optimización se han utilizado [http://optimizilla.com/es/](http://optimizilla.com/es/)
@@ -99,7 +99,7 @@ planteamiento y especificaciones arriba señaladas.
 
 -Botón rss. Comentar en este punto que sólo están activados los
 dos primeros enlaces, es decir, los dos que tienen página de noticia
-entera (**noticia.html**). Por lo tanto el tercer enlace está desactivado.
+entera (**news1.html** y **news2.html**). Por lo tanto el tercer enlace está desactivado.
 
 -Fuentes externas, en este caso se ha utilizado la fuente
 **Carrois+Gothic+SC** para detallar el desarrollador que aparece en
