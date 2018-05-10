@@ -24,18 +24,18 @@ cargarán noticias al llegar abajo con el scroll.
 
 ## PROYECTO
 
-###-Descripción:
+### -Descripción:
 
 Consiste en un noticiario sobre tecnología, en donde se van
 redactando las últimas noticias de este género siguiendo la línea del
 planteamiento y especificaciones arriba señaladas.
 
-###-Boceto y diseño final maquetación proyecto.
+### -Boceto y diseño final maquetación proyecto.
 
 **************FOTOOOOS
 
 
-###-Contenido de los archivos
+### -Contenido de los archivos
 
 - **news.html** contiene portada con 3 noticias escritas en el
     mismo.
