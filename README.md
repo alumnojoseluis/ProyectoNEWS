@@ -32,7 +32,7 @@ planteamiento y especificaciones arriba señaladas.
 
 ### -Boceto y diseño final maquetación proyecto.
 
-###  · DISEÑO GENERAL
+###  · BOCETO GENERAL
 ![Imagen de DISEÑO GENERAL](img/D_general.jpg)
 
 ###  · DISEÑO DETALLES DESTKTOP Y MOBILE
