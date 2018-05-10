@@ -14,7 +14,7 @@ cargarán noticias al llegar abajo con el scroll.
 - Publicidad de anchura 336px en Desktop. Situación derecha.
 - Publicidad de altura 90px en Mobile. Situación abajo y fija.
 - Noticias con las características siguientes:
-    - Title ; 8 palabras.
+    - Title.
     - Imgbig ( > resolución) y Imgmid (< resolución).
     - Description ; mín. 300 palabras.
     - Datetime.
