@@ -68,24 +68,14 @@ planteamiento y especificaciones arriba señaladas.
     - Carga Facebook
     - Activa/Desactiva scroll (ACTIVAR/PARAR SCROLL)
 
-- **img/...**, contiene archivos de las imágenes con los siguientes
-    formatos:
-       - **.ico**, utilizado de favicono.
-       - **.png**, utilizado para las imágenes del logotipo del
-    proyecto, de RSS y de Facebook, como también
-    el de la publicidad.
-       - **.jpg**, utilizado para las imágenes del tapiz, cabecera y
-    noticias.
-
-
- **Comentar que las imágenes de noticias se
-distinguen entre:**
-
-    - **menor resolución, IMGMID, anotadas como
-new#.jpg**
-    - **mayor resolución, IMGBIG, anotadas como
-new#_#.jpg**
-
+- **img/...**, contiene archivos de las imágenes con los siguientes formatos:
+      - **.ico**, utilizado de favicono.
+      - **.png**, utilizado para las imágenes del logotipo del proyecto, de RSS y de Facebook, como también el de la publicidad.
+      - **.jpg**, utilizado para las imágenes del tapiz, cabecera y noticias.
+      **Comentar que las imágenes de noticias se distinguen entre:**
+      -**menor resolución, IMGMID, anotadas como new#.jpg**
+      -**mayor resolución, IMGBIG, anotadas como new#_#.jpg**
+      
 Para la optimización se han utilizado [http://optimizilla.com/es/](http://optimizilla.com/es/)
 y [http://webresizer.com/resizer/?lang=es](http://webresizer.com/resizer/?lang=es)
 
