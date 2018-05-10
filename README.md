@@ -34,17 +34,14 @@ planteamiento y especificaciones arriba señaladas.
 
 ###  · DISEÑO GENERAL
 ![Imagen de DISEÑO GENERAL](img/D_general.jpg)
-![](https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img/D_general.jpg)
-https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img
-![DISEÑO GENERAL](https://github.com/alumnojoseluis/ProyectoNEWS/tree/master/img/ "DISEÑO GENERAL")
 
 ###  · DISEÑO DETALLES DESTKTOP Y MOBILE
-![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_detalleDesk.jpg)
-![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_detalleMobile.jpg)
+![Imagen de DISEÑO GENERAL](img/D_detalleDesk.jpg)
+![Imagen de DISEÑO GENERAL](img/D_detalleMobile.jpg)
 
 ###  · DISEÑO ESPECIFICACIONES DESTKTOP Y MOBILE
-![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_especificacionDesk.jpg)
-![](https://github.com/alumnojoseluis/ProyectoNEWS/img/D_especificacionMobile.jpg)
+![Imagen de DISEÑO GENERAL](img/D_especificacionDesk.jpg)
+![Imagen de DISEÑO GENERAL](img/D_especificacionMobile.jpg)
 
 
 ### -Contenido de los archivos
